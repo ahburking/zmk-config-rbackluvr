@@ -1,0 +1,6 @@
+if SHIELD_RBACKLUVR
+
+config ZMK_KEYBOARD_NAME
+    default "rbackluvr"
+
+endif
